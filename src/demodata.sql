@@ -434,7 +434,15 @@ VALUES ('0038ea008e74fdef4a0b0438ec2e4de6', 1, 'theme:o3-theme', 'sGATrackingId'
        ('eb96d79eb736a81b35270761622fa146', 1, 'theme:o3-theme', 'bInputState', 'bool', ''),
        ('b5230547747be2717cd69dcf877e007b', 1, 'theme:o3-theme', 'bInputFax', 'bool', ''),
        ('9c956f4b3e6297dfc642d37d6501fb08', 1, 'theme:o3-theme', 'bInputMobilePhone', 'bool', ''),
-       ('8491773829d4f2a926273a5abe8f8984', 1, 'theme:o3-theme', 'bInputPrivatPhone', 'bool', '');
+       ('8491773829d4f2a926273a5abe8f8984', 1, 'theme:o3-theme', 'bInputPrivatPhone', 'bool', ''),
+       (LOWER(REPLACE(UUID(),'-','')), 1, 'theme:o3-theme', 'sPrimaryColor',        'str',  '#82BA00'),
+       (LOWER(REPLACE(UUID(),'-','')), 1, 'theme:o3-theme', 'sSecondaryColor',      'str',  '#F2F8E6'),
+       (LOWER(REPLACE(UUID(),'-','')), 1, 'theme:o3-theme', 'sFooterColor',         'str',  '#F4F8F9'),
+       (LOWER(REPLACE(UUID(),'-','')), 1, 'theme:o3-theme', 'sAccentColor',         'str',  '#ffffff'),
+       (LOWER(REPLACE(UUID(),'-','')), 1, 'theme:o3-theme', 'sBackgroundColor',     'str',  '#FFFFFF'),
+       (LOWER(REPLACE(UUID(),'-','')), 1, 'theme:o3-theme', 'sShowBackgroundImage', 'bool', ''),
+       (LOWER(REPLACE(UUID(),'-','')), 1, 'theme:o3-theme', 'sBackgroundImage',     'str',  ''),
+       (LOWER(REPLACE(UUID(),'-','')), 1, 'theme:o3-theme', 'iContentInnerMargin',  'str',  '0');
 
 -- §356a BGB electronic revocation feature (issue #99). Default-on for fresh
 -- installs; OXIDs match source/Setup/Sql/initial_data.sql so INSERT IGNORE
@@ -591,7 +599,15 @@ VALUES ('091fa9cc622351c270d5522741a21695', 'theme:o3-theme', 'sYouTubeUrl', 'fo
        ('dbfa6de4df36e0cd377f110a42a4eb19', 'theme:o3-theme', 'bInputState', 'form', '', 1),
        ('2832c5dd423a2c1ee6f6b46241307b3e', 'theme:o3-theme', 'bInputFax', 'form', '', 1),
        ('7927f4e6307593f63ca81c6993d6ac73', 'theme:o3-theme', 'bInputMobilePhone', 'form', '', 1),
-       ('308b98741d7152a8db937a989e2e4c0a', 'theme:o3-theme', 'bInputPrivatPhone', 'form', '', 1);
+       ('308b98741d7152a8db937a989e2e4c0a', 'theme:o3-theme', 'bInputPrivatPhone', 'form', '', 1),
+       (LOWER(REPLACE(UUID(),'-','')), 'theme:o3-theme', 'sPrimaryColor',        'colors', '', 10),
+       (LOWER(REPLACE(UUID(),'-','')), 'theme:o3-theme', 'sSecondaryColor',      'colors', '', 20),
+       (LOWER(REPLACE(UUID(),'-','')), 'theme:o3-theme', 'sAccentColor',         'colors', '', 30),
+       (LOWER(REPLACE(UUID(),'-','')), 'theme:o3-theme', 'sFooterColor',         'colors', '', 40),
+       (LOWER(REPLACE(UUID(),'-','')), 'theme:o3-theme', 'sBackgroundColor',     'colors', '', 50),
+       (LOWER(REPLACE(UUID(),'-','')), 'theme:o3-theme', 'sShowBackgroundImage', 'colors', '', 60),
+       (LOWER(REPLACE(UUID(),'-','')), 'theme:o3-theme', 'sBackgroundImage',     'colors', '', 70),
+       (LOWER(REPLACE(UUID(),'-','')), 'theme:o3-theme', 'iContentInnerMargin',  'colors', '', 80);
 
 INSERT INTO `oxconfigdisplay` (`OXID`, `OXCFGMODULE`, `OXCFGVARNAME`, `OXGROUPING`, `OXVARCONSTRAINT`, `OXPOS`) VALUES
 ('0d8f69efe8c663a61ce8933924bdbcdc', 'theme:wave', 'sShoppingLanguage', 'googlets', '', 1),
