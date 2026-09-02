@@ -139,7 +139,7 @@ INSERT INTO `oxarticles` (`OXID`, `OXSHOPID`, `OXPARENTID`, `OXACTIVE`, `OXHIDDE
 ('42b93eb9d88081d1d8735896d484ae52', 1, '', 1, 0, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '48', '', '', '', 'Gekko Nr. 4', 'Ein handbemalter türkiser Gekko für Ihre Sammlung', 9, 0, 0, 0, 0, 0, 0, '', 0, '', '', '', NULL, '48_10.jpg', '48_10.jpg', '48_10.jpg', '48_20.jpg', '48_30.jpg', '48_40.jpg', '48_50.jpg', '48_60.jpg', '', '', '', '', '', '', 0, 50, 1, '', '', '0000-00-00', '2023-03-01', '2023-03-01 09:02:46', 0, 0, 0, '', '', '', '', 1, 0, '', 0, 0, '', 9, 9, '', '', '', '', '', '', 'Gekko No. 4', 'A hand painted turquoise Gekko for your collection', '', '', '', '', '', '', '', '', '', '', '', '', 'oxarticle', '', '', '', '', '', '', 40, 0, 0, 0, 0, 0, '', '0', '', 'ccce7fe666b480a2bdc4a90ec91569cc', 0, 0, 0, 0, 0, '', 0, 0, 0, 0, '0000-00-00 00:00:00', 0, 1),
 ('43b885804afed1bcd3e5df3dc8188131', 1, '', 1, 0, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '30', '', '', '', 'chinesische Katze 6', 'vierfarbige \"Winke Katze\"', 9, 0, 0, 0, 0, 0, 0, '', 0, '', '', '', NULL, '30_10.jpg', '30_10.jpg', '30_10.jpg', '30_20.jpg', '30_30.jpg', '30_40.jpg', '30_50.jpg', '', '', '', '', '', '', '', 0, 50, 1, '', '', '0000-00-00', '2023-03-01', '2023-03-01 09:02:18', 0, 0, 0, '', '', '', '', 1, 0, '', 0, 0, '', 9, 9, '', '', '', '', '', '', 'Chinese cat 6', 'four color \"wave cat', '', '', '', '', '', '', '', '', '', '', '', '', 'oxarticle', '', '', '', '', '', '', 130, 0, 0, 0, 0, 0, '', '0', '', 'ccce7fe666b480a2bdc4a90ec91569cc', 0, 0, 0, 0, 0, '', 0, 0, 0, 0, '0000-00-00 00:00:00', 0, 1),
 ('43e244534850b5442f014b300c20bf68', 1, '', 1, 0, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '34', '', '', '', 'Bunte Kuh', 'das ist die sie, die \"Bunte Kuh\"', 9, 0, 0, 0, 0, 0, 0, '', 0, '', '', '', NULL, '34_10.jpg', '34_10.jpg', '34_10.jpg', '34_20.jpg', '34_30.jpg', '34_40.jpg', '34_50.jpg', '34_60.jpg', '', '', '', '', '', '', 0, 50, 1, '', '', '0000-00-00', '2023-03-01', '2023-03-01 09:02:25', 0, 0, 0, '', '', '', '', 1, 0, '', 0, 0, '', 9, 9, '', '', '', '', '', '', 'Colorful cow', 'this is the her, the \"colorful cow\"', '', '', '', '', '', '', '', '', '', '', '', '', 'oxarticle', '', '', '', '', '', '', 30, 0, 0, 0, 0, 0, '', '0', '', '76d6c2cd8c9865c23aa3103322605d30', 0, 0, 0, 0, 0, '', 0, 0, 0, 0, '0000-00-00 00:00:00', 0, 1),
-('43f1a6a084c2ae0d40a5d181bbe64882', 1, '', 1, 0, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '1', '', '', '', 'Hangover Pinguin', 'Pinguin nach einer durchzechten Nacht', 9, 0, 0, 0, 0, 0, 0, '', 0, '', '', '', NULL, '01_10.jpg', '01_10.jpg', '01_10.jpg', '01_20.jpg', '01_30.jpg', '01_40.jpg', '01_50.jpg', '', '', '', '', '', '', '', 0, 50, 1, '', '', '0000-00-00', '2023-03-01', '2023-03-01 09:01:28', 0, 0, 0, '', '', '', '', 1, 0, '', 0, 0, '', 9, 9, '', '', '', '', '', '', 'Hangover Pinguin', 'Penguin after a night of drinking', '', '', '', '', '', '', '', '', '', '', '', '', 'oxarticle', '', '', '', '', '', '', 10, 0, 0, 0, 0, 0, '', '0', '', '22b95298c86d93ca67cef19d8a1dc668', 0, 0, 0, 0, 0, '', 0, 0, 0, 0, '0000-00-00 00:00:00', 0, 1),
+('43f1a6a084c2ae0d40a5d181bbe64882', 1, '', 1, 0, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '1', '', '', '', 'Hangover Pinguin', 'Pinguin nach einer durchzechten Nacht', 9, 0, 0, 0, 0, 0, 0, '', 0, '', '', '', NULL, '01_10.jpg', '01_10.jpg', '01_10.jpg', '01_20.jpg', '01_30.jpg', '01_40.jpg', '01_50.jpg', '', '', '', '', '', '', '', 0, 50, 1, '', '', '0000-00-00', '2023-03-01', '2023-03-01 09:01:28', 0, 0, 0, '', '', '', '', 1, 0, 'Zustand', 50, 2, '', 9, 9, 'State', '', '', '', '', '', 'Hangover Pinguin', 'Penguin after a night of drinking', '', '', '', '', '', '', '', '', '', '', '', '', 'oxarticle', '', '', '', '', '', '', 10, 0, 0, 0, 0, 0, '', '0', '', '22b95298c86d93ca67cef19d8a1dc668', 0, 0, 0, 0, 0, '', 0, 0, 0, 0, '0000-00-00 00:00:00', 0, 1),
 ('445c6762084b94bd6cb55ef9bb097845', 1, '', 1, 0, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '38', '', '', '', 'Verwirrte Kuh', 'eine verwirrte Kuh', 9, 0, 0, 0, 0, 0, 0, '', 0, '', '', '', NULL, '38_10.jpg', '38_10.jpg', '38_10.jpg', '38_20.jpg', '38_30.jpg', '38_40.jpg', '38_50.jpg', '38_60.jpg', '', '', '', '', '', '', 0, 50, 1, '', '', '0000-00-00', '2023-03-01', '2023-03-01 09:02:30', 0, 0, 0, '', '', '', '', 1, 0, '', 0, 0, '', 9, 9, '', '', '', '', '', '', 'Confused cow', 'a confused cow', '', '', '', '', '', '', '', '', '', '', '', '', 'oxarticle', '', '', '', '', '', '', 60, 0, 0, 0, 0, 0, '', '0', '', '76d6c2cd8c9865c23aa3103322605d30', 0, 0, 0, 0, 0, '', 0, 0, 0, 0, '0000-00-00 00:00:00', 0, 1),
 ('44ad6fbf1d63bdf5528c5fa98966d3b8', 1, '', 1, 0, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '69', '', '', '', 'Fuchs Nr. 7', 'Babyfuchs 3', 9, 0, 0, 0, 0, 0, 0, '', 0, '', '', '', NULL, '69_10.jpg', '69_10.jpg', '69_10.jpg', '69_20.jpg', '69_30.jpg', '69_40.jpg', '69_50.jpg', '69_60.jpg', '', '', '', '', '', '', 0, 50, 1, '', '', '0000-00-00', '2023-03-01', '2023-03-01 09:03:23', 0, 0, 0, '', '', '', '', 1, 0, '', 0, 0, '', 9, 9, '', '', '', '', '', '', 'Fox No. 7', 'Baby fox 3', '', '', '', '', '', '', '', '', '', '', '', '', 'oxarticle', '', '', '', '', '', '', 70, 0, 0, 0, 0, 0, '', '0', '', '22b95298c86d93ca67cef19d8a1dc668', 0, 0, 0, 0, 0, '', 0, 0, 0, 0, '0000-00-00 00:00:00', 0, 1),
 ('482b4607a0d6bfb9dd52d5f7c657d273', 1, '', 1, 0, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '35', '', '', '', 'Glückliche Kuh', 'eine wirklich glückliche Kuh', 9, 0, 0, 0, 0, 0, 0, '', 0, '', '', '', NULL, '', '', '35_20.jpg', '35_20.jpg', '35_30.jpg', '35_40.jpg', '35_50.jpg', '', '', '', '', '', '', '', 0, 50, 1, '', '', '0000-00-00', '2023-03-01', '2023-03-01 09:04:28', 0, 0, 0, '', '', '', '', 1, 0, '', 0, 0, '', 9, 9, '', '', '', '', '', '', 'Happy cow', 'a really happy cow', '', '', '', '', '', '', '', '', '', '', '', '', 'oxarticle', '', '', '', '', '', '', 40, 0, 0, 0, 0, 0, '', '0', '', '76d6c2cd8c9865c23aa3103322605d30', 0, 0, 0, 0, 0, '', 0, 0, 0, 0, '0000-00-00 00:00:00', 0, 1),
@@ -203,7 +203,9 @@ INSERT INTO `oxcategories` (`OXID`, `OXPARENTID`, `OXLEFT`, `OXRIGHT`, `OXROOTID
 ('5aeede7cb7c5c6f95b84483d906ad23f', 'oxrootid', 1, 2, '5aeede7cb7c5c6f95b84483d906ad23f', 9999, 1, 0, 1, 'Gekkos', '', '', 'cat-gecko.jpg', 'cat-gecko.jpg', '', '', '', '', '', 0, 0, 0, 1, 'Gekkos', '', '', 0, '', '', '', 0, '', '', '', '', '', NULL, 0, 1, '2023-03-01 09:44:52'),
 ('93ff2bf29071afef17c57beb3fcc9d71', 'oxrootid', 1, 2, '93ff2bf29071afef17c57beb3fcc9d71', 9999, 1, 0, 1, 'Party-Pinguine', '', '', 'cat-pinguin.jpg', 'cat-pinguin.jpg', '', '', '', '', '', 0, 0, 0, 1, 'Party Pinguins', '', '', 0, '', '', '', 0, '', '', '', '', '', NULL, 0, 1, '2023-03-01 09:44:57'),
 ('b947fce02f8a17e5a78ece2179e12d00', 'oxrootid', 1, 2, 'b947fce02f8a17e5a78ece2179e12d00', 9999, 1, 0, 1, 'Füchse', '', '', 'cat-fox.jpg', 'cat-fox.jpg', '', '', '', '', '', 0, 0, 0, 1, 'Foxes', '', '', 0, '', '', '', 0, '', '', '', '', '', NULL, 0, 1, '2023-03-01 09:45:03'),
-('d0af1af0d26eb323e13bb2edc48cc027', 'oxrootid', 1, 2, 'd0af1af0d26eb323e13bb2edc48cc027', 9999, 1, 0, 1, 'Kühe', '', '', 'cat-cow.jpg', 'cat-cow.jpg', '', '', '', '', '', 0, 0, 0, 1, 'Cows', '', '', 0, '', '', '', 0, '', '', '', '', '', NULL, 0, 1, '2023-03-01 09:42:07');
+('d0af1af0d26eb323e13bb2edc48cc027', 'oxrootid', 1, 6, 'd0af1af0d26eb323e13bb2edc48cc027', 9999, 1, 0, 1, 'Kühe', '', '', 'cat-cow.jpg', 'cat-cow.jpg', '', '', '', '', '', 0, 0, 0, 1, 'Cows', '', '', 0, '', '', '', 0, '', '', '', '', '', NULL, 0, 1, '2023-03-01 09:42:07'),
+ ('0cdarkc0ws0001a0000000000000001', 'd0af1af0d26eb323e13bb2edc48cc027', 2, 3, 'd0af1af0d26eb323e13bb2edc48cc027', 1, 1, 0, 1, 'Dunkle Kühe', '', '', 'cat-cow.jpg', 'cat-cow.jpg', '', '', '', '', '', 0, 0, 0, 1, 'Dark cows', '', '', 0, '', '', '', 0, '', '', '', 'cat-dark-cow.jpg', '', NULL, 0, 1, '2023-03-01 09:42:07'),
+ ('0clig0tcs0002a0000000000000002', 'd0af1af0d26eb323e13bb2edc48cc027', 4, 5, 'd0af1af0d26eb323e13bb2edc48cc027', 2, 1, 0, 1, 'Helle Kühe', '', '', 'cat-cow.jpg', 'cat-cow.jpg', '', '', '', '', '', 0, 0, 0, 1, 'Light cows', '', '', 0, '', '', '', 0, '', '', '', 'cat-light-cow.jpg', '', NULL, 0, 1, '2023-03-01 09:42:07');
 
 INSERT INTO `oxconfig` (`OXID`, `OXSHOPID`, `OXMODULE`, `OXVARNAME`, `OXVARTYPE`, `OXVARVALUE`) VALUES
 ('0a5455450f97fdec9.37454802',1,'','blAllowNegativeStock','bool',''),
@@ -360,6 +362,7 @@ INSERT INTO `oxconfig` (`OXID`, `OXSHOPID`, `OXMODULE`, `OXVARNAME`, `OXVARTYPE`
 
 INSERT INTO `oxconfig` (`OXID`, `OXSHOPID`, `OXMODULE`, `OXVARNAME`, `OXVARTYPE`, `OXVARVALUE`)
 VALUES ('0038ea008e74fdef4a0b0438ec2e4de6', 1, 'theme:o3-theme', 'sGATrackingId', 'str', ''),
+       ('c789208a3f1695da37e7b685190fa724', 1, 'theme:o3-theme', 'blShowSubcatTiles', 'bool', '1'),
        ('02f07bad7cd9cdb95e2c0dbc571fd4c9', 1, 'theme:o3-theme', 'bl_showWishlist', 'bool', '1'),
        ('0a96242a1afbd118cb6b71ec4f39e247', 1, 'theme:o3-theme', 'sFaviconSvgFile', 'str', 'icon.svg'),
        ('0b11b4e9bf1a2991b67bc865b4233a97', 1, 'theme:o3-theme', 'sCatPromotionsize', 'str', '370*107'),
@@ -396,7 +399,7 @@ VALUES ('0038ea008e74fdef4a0b0438ec2e4de6', 1, 'theme:o3-theme', 'sGATrackingId'
         'a:12:{s:6:"oxpic1";s:7:"752*633";s:6:"oxpic2";s:7:"752*633";s:6:"oxpic3";s:7:"752*633";s:6:"oxpic4";s:7:"752*633";s:6:"oxpic5";s:7:"752*633";s:6:"oxpic6";s:7:"752*633";s:6:"oxpic7";s:7:"752*633";s:6:"oxpic8";s:7:"752*633";s:6:"oxpic9";s:7:"752*633";s:7:"oxpic10";s:7:"752*633";s:7:"oxpic11";s:7:"752*633";s:7:"oxpic12";s:7:"752*633";}'),
        ('9c191ff2e1357bfe8d672add7256027a', 1, 'theme:o3-theme', 'bl_showManufacturer', 'bool', '1'),
        ('9de93b1960f306d64ff6c126368d0882', 1, 'theme:o3-theme', 'sFaviconIcoFile', 'str', 'favicon.ico'),
-       ('9ea0aa0e71970fd031aa51a53748a86f', 1, 'theme:o3-theme', 'sCatIconsize', 'str', '168*100'),
+       ('9ea0aa0e71970fd031aa51a53748a86f', 1, 'theme:o3-theme', 'sCatIconsize', 'str', '672*400'),
        ('a0818b7c75032a98bc625cb48f629b05', 1, 'theme:o3-theme', 'blUseGoogleTS', 'bool', ''),
        ('a0d865364e1ae4b80a8e1a77f1e8679d', 1, 'theme:o3-theme', 'blFooterShowHelp', 'bool', '1'),
        ('a274c27059c5b4fb705f54fa78acecb7', 1, 'theme:o3-theme', 'blGAAnonymizeIPs', 'bool', '1'),
@@ -1341,23 +1344,23 @@ INSERT INTO `oxobject2category` (`OXID`, `OXOBJECTID`, `OXCATNID`, `OXPOS`, `OXT
 ('017ea62ca760c896219e510a12458fd7', '8b486a87b681a7f5dc609f236771bef0', '48eeb1a66e033336c90dda95a4d9b6f4', 0, 0, '2023-03-01 09:01:02'),
 ('0184bb4ae2bbbeeec0d98c40cbdc4348', 'b8f2148141e2b18cc499c3da104946e8', '93ff2bf29071afef17c57beb3fcc9d71', 0, 0, '2023-03-01 09:01:02'),
 ('13fd9e5741baba01eb4107c7a91a00c2', 'e40266b6d8fb54c58c4abd1d2168a9fa', '0ab8dc7f345c3da293988a706d85643a', 0, 0, '2023-03-01 09:01:02'),
-('1ee346c267a55247f6f96057314afd01', '9b8a0acf9004cc8bd4a1798910b73a18', 'd0af1af0d26eb323e13bb2edc48cc027', 0, 0, '2023-03-01 09:01:02'),
+('1ee346c267a55247f6f96057314afd01', '9b8a0acf9004cc8bd4a1798910b73a18', '0cdarkc0ws0001a0000000000000001', 0, 0, '2023-03-01 09:01:02'),
 ('230476f5f83d2ce313e750b1871eb49b', '71a3eb2b1ddc67698ef7dbff8814469e', '5a1b82c8a7c97d78f270315bb7d5e20b', 0, 0, '2023-03-01 09:01:02'),
 ('248005d09659d018eeb92c52d5bd7dfa', '07f3a7069ad027c4628192f89cfc864d', '48eeb1a66e033336c90dda95a4d9b6f4', 0, 0, '2023-03-01 09:01:02'),
-('24f98f1a8289c17c5ecf6d2337449d13', '482b4607a0d6bfb9dd52d5f7c657d273', 'd0af1af0d26eb323e13bb2edc48cc027', 0, 0, '2023-03-01 09:01:02'),
+('24f98f1a8289c17c5ecf6d2337449d13', '482b4607a0d6bfb9dd52d5f7c657d273', '0clig0tcs0002a0000000000000002', 0, 0, '2023-03-01 09:01:02'),
 ('2943b00bbc4966221b62c78e4d45bb2b', 'febb79943daed68fc7cfe1537b348cad', '48eeb1a66e033336c90dda95a4d9b6f4', 0, 0, '2023-03-01 09:01:02'),
 ('2969b7e4a28df43eab347d661b98196f', 'c09360620b85ee5a45475bb128477f6d', '5aeede7cb7c5c6f95b84483d906ad23f', 0, 0, '2023-03-01 09:01:02'),
 ('2db83176a8248a21ac0bb38b114b7fe8', 'eaeb7f4cab3604847b21e91ff1c01540', 'b947fce02f8a17e5a78ece2179e12d00', 0, 0, '2023-03-01 09:01:02'),
 ('2e38029190eda0e90240e6876b39f1a9', 'e3730d6014dafbb3b50884b37ef57361', '48eeb1a66e033336c90dda95a4d9b6f4', 0, 0, '2023-03-01 09:01:02'),
 ('3d5462a22fcf41600878d97f7b6de064', '80b690b12b19cdedce8dde2cfef8958c', '5a1b82c8a7c97d78f270315bb7d5e20b', 0, 0, '2023-03-01 09:01:02'),
-('454d705a3ff8068082ccb3cdccbef26d', '9edbae58e6a2091bbcb71c74f494babe', 'd0af1af0d26eb323e13bb2edc48cc027', 0, 0, '2023-03-01 09:01:02'),
-('495599b80c7af0b7ea64581bf3359c9c', '445c6762084b94bd6cb55ef9bb097845', 'd0af1af0d26eb323e13bb2edc48cc027', 0, 0, '2023-03-01 09:01:02'),
+('454d705a3ff8068082ccb3cdccbef26d', '9edbae58e6a2091bbcb71c74f494babe', '0cdarkc0ws0001a0000000000000001', 0, 0, '2023-03-01 09:01:02'),
+('495599b80c7af0b7ea64581bf3359c9c', '445c6762084b94bd6cb55ef9bb097845', '0clig0tcs0002a0000000000000002', 0, 0, '2023-03-01 09:01:02'),
 ('4c4b76b637b1e1ff8283dea059c40b85', '5338833180eff8c7dc95be4c77ccce00', '0ab8dc7f345c3da293988a706d85643a', 0, 0, '2023-03-01 09:01:02'),
-('56bd49ea0b201bf002dd907a3a99efae', '0c9cad8d6844b6794907bc9181f0580f', 'd0af1af0d26eb323e13bb2edc48cc027', 0, 0, '2023-03-01 09:01:02'),
+('56bd49ea0b201bf002dd907a3a99efae', '0c9cad8d6844b6794907bc9181f0580f', '0cdarkc0ws0001a0000000000000001', 0, 0, '2023-03-01 09:01:02'),
 ('5859edf677df7c4649f70d76acfc82cc', '44ad6fbf1d63bdf5528c5fa98966d3b8', 'b947fce02f8a17e5a78ece2179e12d00', 0, 0, '2023-03-01 09:01:02'),
 ('58fe40aa78195b1c3e5c7be3f61977cf', '69fb27794f84ae5546fa624012546c66', '48eeb1a66e033336c90dda95a4d9b6f4', 0, 0, '2023-03-01 09:01:02'),
-('592e4cb8f405969cacc4383f522f5ad7', '65c47fe36c6af7a8959c9ebf09ebdefb', 'd0af1af0d26eb323e13bb2edc48cc027', 0, 0, '2023-03-01 09:01:02'),
-('5bcbda0cacf78fa3306a45f43409024c', 'e707968f042e2b1a62d23140d0efffe0', 'd0af1af0d26eb323e13bb2edc48cc027', 0, 0, '2023-03-01 09:01:02'),
+('592e4cb8f405969cacc4383f522f5ad7', '65c47fe36c6af7a8959c9ebf09ebdefb', '0cdarkc0ws0001a0000000000000001', 0, 0, '2023-03-01 09:01:02'),
+('5bcbda0cacf78fa3306a45f43409024c', 'e707968f042e2b1a62d23140d0efffe0', '0cdarkc0ws0001a0000000000000001', 0, 0, '2023-03-01 09:01:02'),
 ('5ca89796b864051b50224282c114967b', '1cc2e0631621414438e55c305f3b329a', 'b947fce02f8a17e5a78ece2179e12d00', 0, 0, '2023-03-01 09:01:02'),
 ('5d3140a0b30a7d06bc5e9d8c173d361d', '01c9499c21914ae7de1b2412ea4b019f', '93ff2bf29071afef17c57beb3fcc9d71', 0, 0, '2023-03-01 09:01:02'),
 ('65612fa608f361ab0e4423d4d973d67c', '5f39e7dfeaf7aeae233774ad5ccdb0b5', '48eeb1a66e033336c90dda95a4d9b6f4', 0, 0, '2023-03-01 09:01:02'),
@@ -1365,11 +1368,11 @@ INSERT INTO `oxobject2category` (`OXID`, `OXOBJECTID`, `OXCATNID`, `OXPOS`, `OXT
 ('6890366e4cabe65b1fcec132f0617c50', '42b93eb9d88081d1d8735896d484ae52', '5aeede7cb7c5c6f95b84483d906ad23f', 0, 0, '2023-03-01 09:01:02'),
 ('7128589c02ec40ec263f3f045afe9e40', '317522dd57410f02ffe9f38c25c3f915', '0ab8dc7f345c3da293988a706d85643a', 0, 0, '2023-03-01 09:01:02'),
 ('7944fe7f6904daef71026f4200e2f9bd', '2ac3deca708f654deab5851309ab01de', '5a1b82c8a7c97d78f270315bb7d5e20b', 0, 0, '2023-03-01 09:01:02'),
-('7be3fba78f82b2c0bce47ae3f72b2182', '06c04d62a34d1398f7e83aebad200b72', 'd0af1af0d26eb323e13bb2edc48cc027', 0, 0, '2023-03-01 09:01:02'),
+('7be3fba78f82b2c0bce47ae3f72b2182', '06c04d62a34d1398f7e83aebad200b72', '0clig0tcs0002a0000000000000002', 0, 0, '2023-03-01 09:01:02'),
 ('7df86b6399d1dcd927dba573cafdd536', '1e1326af0fad7ed12b2d96c95063a143', '48eeb1a66e033336c90dda95a4d9b6f4', 0, 0, '2023-03-01 09:01:02'),
 ('7fb835c9f385309fb868045cc5ffd09a', 'fb3b13bb8f76e897d9d41fb0d6155911', '93ff2bf29071afef17c57beb3fcc9d71', 0, 0, '2023-03-01 09:01:02'),
 ('81d1e7729009de803acd2429a33399ab', 'ec507b9104ede466ad373f686bff9b4e', '5aeede7cb7c5c6f95b84483d906ad23f', 0, 0, '2023-03-01 09:01:02'),
-('82079e0574491fa65385e5c0dbc84cc0', '2f7cd508611d34c4865cf289ebe79582', 'd0af1af0d26eb323e13bb2edc48cc027', 0, 0, '2023-03-01 09:01:02'),
+('82079e0574491fa65385e5c0dbc84cc0', '2f7cd508611d34c4865cf289ebe79582', '0cdarkc0ws0001a0000000000000001', 0, 0, '2023-03-01 09:01:02'),
 ('882ae8a33353e731a58eb49d8dc0a891', '2e62b5b4c74b2f18ad0c6e80c5dd9637', '48eeb1a66e033336c90dda95a4d9b6f4', 0, 0, '2023-03-01 09:01:02'),
 ('89ef71bc93636d93ed928e2ba17d8fbd', 'ea06d2114ca71b4d43dd6c25e2812a11', '5a1b82c8a7c97d78f270315bb7d5e20b', 0, 0, '2023-03-01 09:01:02'),
 ('9009b3dc2deeb55a0876d0f8788e3db6', '0773a7a5dc9ee6ba10f535a404fe6a68', '5a1b82c8a7c97d78f270315bb7d5e20b', 0, 0, '2023-03-01 09:01:02'),
@@ -1385,27 +1388,27 @@ INSERT INTO `oxobject2category` (`OXID`, `OXOBJECTID`, `OXCATNID`, `OXPOS`, `OXT
 ('a476838a387ac36485e0e41e34252340', 'f1065133864057b9dd0708897bcde1a1', '5aeede7cb7c5c6f95b84483d906ad23f', 0, 0, '2023-03-01 09:01:02'),
 ('ac37d22f3c36cc51da3910433fe626dc', 'b84ad82d6f73526d8b82d9f2a5d6d4a2', '5a1b82c8a7c97d78f270315bb7d5e20b', 0, 0, '2023-03-01 09:01:02'),
 ('b698d17de3503e4a08677dd12797810a', '43b885804afed1bcd3e5df3dc8188131', '48eeb1a66e033336c90dda95a4d9b6f4', 0, 0, '2023-03-01 09:01:02'),
-('b89aaebc93cda9225e0350576ee87157', 'bd2311829550c2217727b1ef8af7f30e', 'd0af1af0d26eb323e13bb2edc48cc027', 0, 0, '2023-03-01 09:01:02'),
+('b89aaebc93cda9225e0350576ee87157', 'bd2311829550c2217727b1ef8af7f30e', '0clig0tcs0002a0000000000000002', 0, 0, '2023-03-01 09:01:02'),
 ('bb2d3e6e2b6d3da33f959d1836282e56', 'a3be7fa9bec73c47aadad36031a55b8b', '48eeb1a66e033336c90dda95a4d9b6f4', 0, 0, '2023-03-01 09:01:02'),
 ('bc24e31157528513d9d0c5e1b0053f40', 'e93b45845d26dfa49c8f1ed95a6edc80', '5a1b82c8a7c97d78f270315bb7d5e20b', 0, 0, '2023-03-01 09:01:02'),
-('bc3561db61d1bf059b049728f41bf819', 'ca2455b5294583ed9556d9ad2fa22330', 'd0af1af0d26eb323e13bb2edc48cc027', 0, 0, '2023-03-01 09:01:02'),
+('bc3561db61d1bf059b049728f41bf819', 'ca2455b5294583ed9556d9ad2fa22330', '0cdarkc0ws0001a0000000000000001', 0, 0, '2023-03-01 09:01:02'),
 ('bd71b00f2a11c4afedbc70064207bc54', '3796092ee99f6d5a1870fa66fe6eab04', '93ff2bf29071afef17c57beb3fcc9d71', 0, 0, '2023-03-01 09:01:02'),
 ('c65513b8f84a0931d11b4258acdb0304', 'ef6dd76c95b2c850466726dbf413485a', '5aeede7cb7c5c6f95b84483d906ad23f', 0, 0, '2023-03-01 09:01:02'),
 ('cbfd4ec22b966ddb50496a6c1680f172', '4dc357704f5f070474afcd4cbcf0af50', 'b947fce02f8a17e5a78ece2179e12d00', 0, 0, '2023-03-01 09:01:02'),
 ('cd09a431266666f00f206ba9680d5dee', '599a27471d2084c3d5ee43c11033c8ac', '93ff2bf29071afef17c57beb3fcc9d71', 0, 0, '2023-03-01 09:01:02'),
-('cff23ff50ff8cd62c3777f1c804a2ffa', '55fc66df5ab017ce94f4a3c0a834eae4', 'd0af1af0d26eb323e13bb2edc48cc027', 0, 0, '2023-03-01 09:01:02'),
+('cff23ff50ff8cd62c3777f1c804a2ffa', '55fc66df5ab017ce94f4a3c0a834eae4', '0clig0tcs0002a0000000000000002', 0, 0, '2023-03-01 09:01:02'),
 ('dab9e962cfa15ff5ed73a0bb72886744', 'a6ea4662ae564a84d7b03c017eb72c6e', '5a1b82c8a7c97d78f270315bb7d5e20b', 0, 0, '2023-03-01 09:01:02'),
-('db1beef006455af60e83375b7533c5e5', 'ac38f16c9131ae1c59747bb9bc2a1554', 'd0af1af0d26eb323e13bb2edc48cc027', 0, 0, '2023-03-01 09:01:02'),
-('de3b4a31165609ca9bb4b6f3106a117a', 'c00a61b31e190beca5c2f592725882da', 'd0af1af0d26eb323e13bb2edc48cc027', 0, 0, '2023-03-01 09:01:02'),
-('e56eeee3d2ac416a44f809e2ba2900c5', '43e244534850b5442f014b300c20bf68', 'd0af1af0d26eb323e13bb2edc48cc027', 0, 0, '2023-03-01 09:01:02'),
+('db1beef006455af60e83375b7533c5e5', 'ac38f16c9131ae1c59747bb9bc2a1554', '0clig0tcs0002a0000000000000002', 0, 0, '2023-03-01 09:01:02'),
+('de3b4a31165609ca9bb4b6f3106a117a', 'c00a61b31e190beca5c2f592725882da', '0cdarkc0ws0001a0000000000000001', 0, 0, '2023-03-01 09:01:02'),
+('e56eeee3d2ac416a44f809e2ba2900c5', '43e244534850b5442f014b300c20bf68', '0clig0tcs0002a0000000000000002', 0, 0, '2023-03-01 09:01:02'),
 ('ea5ac79f989bb8a2d48a90283dabdb7a', '8f03f92d20915a63a7c20831b8b44311', '5a1b82c8a7c97d78f270315bb7d5e20b', 0, 0, '2023-03-01 09:01:02'),
-('eadb5d87733d1637e34b4f56f2a16c11', '326872d2df524bad422e20e97b5b5578', 'd0af1af0d26eb323e13bb2edc48cc027', 0, 0, '2023-03-01 09:01:02'),
-('ecf3a54d73c3d762f61c1ef7da3f121d', '57fdf72c0913d8071dc1440f33943237', 'd0af1af0d26eb323e13bb2edc48cc027', 0, 0, '2023-03-01 09:01:02'),
-('ee8665ce218013eb528accb2b240429e', '8b99a4a6ab591d67edd00f9e9b00b6a5', 'd0af1af0d26eb323e13bb2edc48cc027', 0, 0, '2023-03-01 09:01:02'),
+('eadb5d87733d1637e34b4f56f2a16c11', '326872d2df524bad422e20e97b5b5578', '0clig0tcs0002a0000000000000002', 0, 0, '2023-03-01 09:01:02'),
+('ecf3a54d73c3d762f61c1ef7da3f121d', '57fdf72c0913d8071dc1440f33943237', '0cdarkc0ws0001a0000000000000001', 0, 0, '2023-03-01 09:01:02'),
+('ee8665ce218013eb528accb2b240429e', '8b99a4a6ab591d67edd00f9e9b00b6a5', '0clig0tcs0002a0000000000000002', 0, 0, '2023-03-01 09:01:02'),
 ('f2a43e2a36d309ec21e5acf491cf8dcd', '2bb21231be688d3db3c492179a565919', '5aeede7cb7c5c6f95b84483d906ad23f', 0, 0, '2023-03-01 09:01:02'),
 ('f7f9090ef04067a5747fd5954f30e15e', 'c2f01db725acb8099f4c95a82a190632', '48eeb1a66e033336c90dda95a4d9b6f4', 0, 0, '2023-03-01 09:01:02'),
 ('fb4d8fe9641398c8166b0a6d2e9253fc', 'd57a1f0a7a0b0c5ba4a155d1144b8ee3', '48eeb1a66e033336c90dda95a4d9b6f4', 0, 0, '2023-03-01 09:01:02'),
-('ff570c47920ca43c6d28646e42bdb6c7', '9b92b8441e11cb00d7cc41072cc4cc05', 'd0af1af0d26eb323e13bb2edc48cc027', 0, 0, '2023-03-01 09:01:02');
+('ff570c47920ca43c6d28646e42bdb6c7', '9b92b8441e11cb00d7cc41072cc4cc05', '0clig0tcs0002a0000000000000002', 0, 0, '2023-03-01 09:01:02');
 
 INSERT INTO `oxobject2delivery` (`OXID`, `OXDELIVERYID`, `OXOBJECTID`, `OXTYPE`, `OXTIMESTAMP`) VALUES 
 ('1b842e73492c49fc1.89449037','1b842e73470578914.54719298','a7c40f631fc920687.20179984','oxcountry','2016-07-19 14:11:15'),
@@ -1802,7 +1805,12 @@ INSERT INTO `oxseo` VALUES
                         ('04abcb465a8d3a4441df4c480838d23d','f9d1a02ab749dc360c4e21f21de1beaf',1,0,'index.php?cl=contact','kontakt/','static',0,0,'','2020-04-21 09:50:35'),
                         ('f4f73033cf5045525644042325355732','faa7365d85f99ab2e7ae2b508dcacc0a',1,0,'index.php?cl=details&amp;anid=f4f73033cf5045525644042325355732&amp;cnid=fadcb6dd70b9f6248efa425bd159684e','Angebote/Transportcontainer-THE-BARREL.html','oxarticle',0,0,'fadcb6dd70b9f6248efa425bd159684e','2020-04-21 09:50:35'),
                         ('5703b4628d94efe9d263f997e252ce7b','fd936a7c1696a1c7404440437d343ef4',1,1,'index.php?cl=tag&amp;searchtag=kiteboarding','en/tag/kiteboarding/','dynamic',0,0,'','2020-04-21 09:50:35'),
-                        ('b7e822dee212a2fd5957259f89c1d8ea','fdc3f6f095234c29288dad659601467a',1,1,'index.php?cl=tag&amp;searchtag=anna','en/tag/anna/','dynamic',0,0,'','2020-04-21 09:50:35');
+                        ('b7e822dee212a2fd5957259f89c1d8ea','fdc3f6f095234c29288dad659601467a',1,1,'index.php?cl=tag&amp;searchtag=anna','en/tag/anna/','dynamic',0,0,'','2020-04-21 09:50:35'),
+                        ('0cdarkc0ws0001a0000000000000001','5d7ff0ca76fb5e8c89f3d6f47807e0f3',1,1,'index.php?cl=alist&amp;cnid=0cdarkc0ws0001a0000000000000001','en/Cows/Dark-cows/','oxcategory',0,0,'','2026-09-01 04:44:35'),
+                        ('0clig0tcs0002a0000000000000002','9243c058c4a47de624625d01f3276ea1',1,0,'index.php?cl=alist&amp;cnid=0clig0tcs0002a0000000000000002','Kuehe/Helle-Kuehe/','oxcategory',0,0,'','2026-09-01 04:44:35'),
+                        ('0cdarkc0ws0001a0000000000000001','d479988477cda4df96c4fb3e438b7870',1,0,'index.php?cl=alist&amp;cnid=0cdarkc0ws0001a0000000000000001','Kuehe/Dunkle-Kuehe/','oxcategory',0,0,'','2026-09-01 04:44:35'),
+                        ('0clig0tcs0002a0000000000000002','dfae90e8c55890593db534da607cefc3',1,1,'index.php?cl=alist&amp;cnid=0clig0tcs0002a0000000000000002','en/Cows/Light-cows/','oxcategory',0,0,'','2026-09-01 04:44:35'),
+                        ('d0af1af0d26eb323e13bb2edc48cc027','0916c6f35ce5c746cfabfa8c318084c5',1,1,'index.php?cl=alist&amp;cnid=d0af1af0d26eb323e13bb2edc48cc027','en/Cows/','oxcategory',0,0,'','2026-09-01 04:44:35');
 
 
 
@@ -1890,6 +1898,13 @@ INSERT INTO `oxstates` (`OXID`, `OXCOUNTRYID`, `OXTITLE`, `OXISOALPHA2`, `OXTITL
 INSERT INTO `oxuser` (`OXID`, `OXACTIVE`, `OXRIGHTS`, `OXSHOPID`, `OXUSERNAME`, `OXPASSWORD`, `OXPASSSALT`, `OXCUSTNR`, `OXUSTID`, `OXCOMPANY`, `OXFNAME`, `OXLNAME`, `OXSTREET`, `OXSTREETNR`, `OXADDINFO`, `OXCITY`, `OXCOUNTRYID`, `OXSTATEID`, `OXZIP`, `OXFON`, `OXFAX`, `OXSAL`, `OXBONI`, `OXCREATE`, `OXREGISTER`, `OXPRIVFON`, `OXMOBFON`, `OXBIRTHDATE`, `OXURL`, `OXUPDATEKEY`, `OXUPDATEEXP`, `OXPOINTS`, `OXTIMESTAMP`) VALUES 
 ('e7af1c3b786fd02906ccd75698f4e6b9',1,'user',1,'info@o3-shop.com','08e4b8e9f77d78d92fe17bf276783d5f','6537613339316161636532363266356338616564303034326163326235316266',2,'','','Max','Mustermann','Musterstraße.','16','','Musterstadt','a7c40f631fc920687.20179984','','12345','','','MR',1000,'2011-02-01 08:41:25','2011-02-01 08:41:25','','','0000-00-00','','',0,0,'2020-04-21 09:50:35'),
 ('oxdefaultadmin',1,'malladmin',1,'admin','961d792c7bd62c54f035060a125cc084c9b1fef19c10aa36835c386f78687f644b401063fbb65ba66120bad9ceccebb78e14ba6936a98b3540c1c09c8c4af2c5','8c7081864f201784016f71b6fe02fcfb',1,'','Musterfirma','Erika','Mustermann','Musterstraße','16','','Musterstadt','a7c40f631fc920687.20179984','','12345','0234-56789012','0234-678901234','MRS',1000,'2003-01-01 00:00:00','2003-01-01 00:00:00','','','0000-00-00','','',0,0,'2020-04-21 09:50:35');
+INSERT INTO `oxarticles` (`OXID`, `OXSHOPID`, `OXPARENTID`, `OXACTIVE`, `OXHIDDEN`, `OXACTIVEFROM`, `OXACTIVETO`, `OXARTNUM`, `OXEAN`, `OXDISTEAN`, `OXMPN`, `OXTITLE`, `OXSHORTDESC`, `OXPRICE`, `OXBLFIXEDPRICE`, `OXPRICEA`, `OXPRICEB`, `OXPRICEC`, `OXBPRICE`, `OXTPRICE`, `OXUNITNAME`, `OXUNITQUANTITY`, `OXEXTURL`, `OXURLDESC`, `OXURLIMG`, `OXVAT`, `OXTHUMB`, `OXICON`, `OXPIC1`, `OXPIC2`, `OXPIC3`, `OXPIC4`, `OXPIC5`, `OXPIC6`, `OXPIC7`, `OXPIC8`, `OXPIC9`, `OXPIC10`, `OXPIC11`, `OXPIC12`, `OXWEIGHT`, `OXSTOCK`, `OXSTOCKFLAG`, `OXSTOCKTEXT`, `OXNOSTOCKTEXT`, `OXDELIVERY`, `OXINSERT`, `OXTIMESTAMP`, `OXLENGTH`, `OXWIDTH`, `OXHEIGHT`, `OXFILE`, `OXSEARCHKEYS`, `OXTEMPLATE`, `OXQUESTIONEMAIL`, `OXISSEARCH`, `OXISCONFIGURABLE`, `OXVARNAME`, `OXVARSTOCK`, `OXVARCOUNT`, `OXVARSELECT`, `OXVARMINPRICE`, `OXVARMAXPRICE`, `OXVARNAME_1`, `OXVARSELECT_1`, `OXVARNAME_2`, `OXVARSELECT_2`, `OXVARNAME_3`, `OXVARSELECT_3`, `OXTITLE_1`, `OXSHORTDESC_1`, `OXURLDESC_1`, `OXSEARCHKEYS_1`, `OXTITLE_2`, `OXSHORTDESC_2`, `OXURLDESC_2`, `OXSEARCHKEYS_2`, `OXTITLE_3`, `OXSHORTDESC_3`, `OXURLDESC_3`, `OXSEARCHKEYS_3`, `OXBUNDLEID`, `OXFOLDER`, `OXSUBCLASS`, `OXSTOCKTEXT_1`, `OXSTOCKTEXT_2`, `OXSTOCKTEXT_3`, `OXNOSTOCKTEXT_1`, `OXNOSTOCKTEXT_2`, `OXNOSTOCKTEXT_3`, `OXSORT`, `OXSOLDAMOUNT`, `OXNONMATERIAL`, `OXFREESHIPPING`, `OXREMINDACTIVE`, `OXREMINDAMOUNT`, `OXAMITEMID`, `OXAMTASKID`, `OXVENDORID`, `OXMANUFACTURERID`, `OXSKIPDISCOUNTS`, `OXRATING`, `OXRATINGCNT`, `OXMINDELTIME`, `OXMAXDELTIME`, `OXDELTIMEUNIT`, `OXUPDATEPRICE`, `OXUPDATEPRICEA`, `OXUPDATEPRICEB`, `OXUPDATEPRICEC`, `OXUPDATEPRICETIME`, `OXISDOWNLOADABLE`, `OXSHOWCUSTOMAGREEMENT`) VALUES
+('0d3414dd0a43f1a6a01d000000000001', 1, '43f1a6a084c2ae0d40a5d181bbe64882', 1, 0, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '1a', '', '', '', 'Hangover Pinguin', 'Pinguin nach einer durchzechten Nacht', 9, 0, 0, 0, 0, 0, 0, '', 0, '', '', '', NULL, '01_10.jpg', '01_10.jpg', '01_10.jpg', '01_20.jpg', '01_30.jpg', '01_40.jpg', '01_50.jpg', '', '', '', '', '', '', '', 0, 25, 1, '', '', '0000-00-00', '2023-03-01', '2023-03-01 09:01:28', 0, 0, 0, '', '', '', '', 1, 0, '', 0, 0, 'betrunken', 0, 0, '', 'drunk', '', '', '', '', 'Hangover Pinguin', 'Penguin after a night of drinking', '', '', '', '', '', '', '', '', '', '', '', '', 'oxarticle', '', '', '', '', '', '', 10, 0, 0, 0, 0, 0, '', '0', '', '22b95298c86d93ca67cef19d8a1dc668', 0, 0, 0, 0, 0, '', 0, 0, 0, 0, '0000-00-00 00:00:00', 0, 1),
+('0d3414dd0a43f1a6a01d000000000002', 1, '43f1a6a084c2ae0d40a5d181bbe64882', 1, 0, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '1b', '', '', '', 'Hangover Pinguin', 'Ausgeschlafen und fit', 9, 0, 0, 0, 0, 0, 0, '', 0, '', '', '', NULL, '01_10.jpg', '01_10.jpg', '01_10.jpg', '01_20.jpg', '01_30.jpg', '01_40.jpg', '01_50.jpg', '', '', '', '', '', '', '', 0, 25, 1, '', '', '0000-00-00', '2023-03-01', '2023-03-01 09:01:28', 0, 0, 0, '', '', '', '', 1, 0, '', 0, 0, 'nüchtern', 0, 0, '', 'sober', '', '', '', '', 'Hangover Penguin', 'Well rested and fit', '', '', '', '', '', '', '', '', '', '', '', '', 'oxarticle', '', '', '', '', '', '', 10, 0, 0, 0, 0, 0, '', '0', '', '22b95298c86d93ca67cef19d8a1dc668', 0, 0, 0, 0, 0, '', 0, 0, 0, 0, '0000-00-00 00:00:00', 0, 1);
+
+INSERT INTO `oxartextends` (`OXID`, `OXLONGDESC`, `OXLONGDESC_1`, `OXLONGDESC_2`, `OXLONGDESC_3`, `OXTIMESTAMP`) VALUES
+('0d3414dd0a43f1a6a01d000000000001', 'Der Pinguin versucht, seinen Kater mit Alkohol zu bekämpfen doch jeder Schluck macht alles nur schlimmer.<br />\n<br />\nEins ist klar: Die Rechnung der letzten Nacht lässt sich nicht mit der nächsten Runde bezahlen.', 'The penguin tries to fight his hangover with alcohol but every sip only makes it worse.<br />\n<br />\nOne thing is clear: last night\'s bill can\'t be paid with another round.', '', '', '2023-03-01 09:01:01'),
+('0d3414dd0a43f1a6a01d000000000002', 'Der nüchterne Pinguin hat ausgeschlafen, sich einen Kaffee gegönnt und blickt klaren Auges auf das Geschehen. Er weiß genau, was gestern passiert ist – und schweigt diskret darüber.', 'The sober penguin has slept well, had a coffee, and looks at the events with a clear head. He knows exactly what happened yesterday – and discretely stays quiet about it.', '', '', '2023-03-01 09:01:01');
 
 
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -1900,4 +1915,3 @@ INSERT INTO `oxuser` (`OXID`, `OXACTIVE`, `OXRIGHTS`, `OXSHOPID`, `OXUSERNAME`, 
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
-
